@@ -1,6 +1,7 @@
 # 比赛题目
 
-对100GB的交易记录建立索引，支持后续高并发查询。查询类型包括1.单条查询，2.聚集查询，3.级联查询。具体详见[大赛网址](! https://tianchi.shuju.aliyun.com/programming/information.htm?spm=5176.100071.5678.2.giWo4e&raceId=231533)
+对100GB的交易记录建立索引，支持后续高并发查询。查询类型包括1.单条查询，2.聚集查询，3.级联查询。具体详见[大赛网址]( https://tianchi.shuju.aliyun.com/programming/information.htm?spm=5176.100071.5678.2.giWo4e&raceId=231533)
+
 
 # 程序目标
 
@@ -111,4 +112,4 @@ Pom配置请参考git中的demo项目[OrderSystemImpl](https://code.aliyun.com/M
 
 # 全量提交结果
 
-通过了417171 case，[log地址](!http://ali-middleware-race.oss-cn-shanghai.aliyuncs.com/e3a371d315e.tar.xz)
+通过了417171 case，[log地址](http://ali-middleware-race.oss-cn-shanghai.aliyuncs.com/e3a371d315e.tar.xz)
