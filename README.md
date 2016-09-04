@@ -1,7 +1,10 @@
 # 比赛题目
 
-对100GB的交易记录建立索引，支持后续高并发查询。查询类型包括1.单条查询，2.聚集查询，3.级联查询。具体详见[大赛网址]( https://tianchi.shuju.aliyun.com/programming/information.htm?spm=5176.100071.5678.2.giWo4e&raceId=231533)
+对100GB的交易记录建立索引，支持后续高并发查询。查询类型包括1.单条查询，2.聚集查询，3.级联查询。具体详见[大赛网址]( https://tianchi.shuju.aliyun.com/programming/information.htm?spm=5176.100071.5678.2.giWo4e&raceId=231533)。
 
+我们队最终取得了**全国总决赛冠军**的成绩（[线上成绩75%](https://tianchi.shuju.aliyun.com/programming/rankingList.htm?spm=0.0.5678.0.NGQDII&raceId=231533)，答辩成绩25%），[答辩PPT](./Gamma%20Go%E9%98%BF%E9%87%8C%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%86%B3%E8%B5%9B%E7%AD%94%E8%BE%A9PPT.pdf)中展示了我们的设计思路以及优化过程。
+
+![groupPhoto.png](./Figures/groupPhoto.png)
 
 # 程序目标
 
