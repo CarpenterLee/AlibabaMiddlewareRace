@@ -1,0 +1,16 @@
+<assembly>
+    <id>bin</id>
+    <includeBaseDirectory>false</includeBaseDirectory>
+    <formats>
+        <format>dir</format>
+    </formats>
+    <fileSets>
+
+    </fileSets>
+    <dependencySets>
+        <dependencySet>
+            <outputDirectory>lib</outputDirectory>
+            <useProjectArtifact>true</useProjectArtifact>
+        </dependencySet>
+    </dependencySets>
+</assembly>
